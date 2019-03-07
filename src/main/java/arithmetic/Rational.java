@@ -1,12 +1,12 @@
 package arithmetic;
 
-import org.jetbrains.annotations.Contract;
+import java.text.ParseException;
 
 /**
  * This class provides a structure definition
  * and a series of calculating methods for rationals.
  */
-public class Rational {
+public class Rational extends Token {
     private int num, den; // large values might cause overflow
     private int sign = 1; // 1 indicates positivity or zero, while -1 means negativity
     // use this method to keep num and den positive
@@ -72,6 +72,36 @@ public class Rational {
         processSign();
     }
 
+    public Rational(Rational r){
+        this.sign = r.sign;
+        this.num = r.num;
+        this.den = r.den;
+    }
+
+    public Rational(String str) throws ParseException {
+        int dot = -1, num = 0, den = 1;
+        for(int i = 0; i < str.length(); i++){
+            char c = str.charAt(i);
+            if(c == '.'){
+                if(dot >= 0){
+                    throw new ParseException("more than one dot is not allowed", i);
+                }else{
+                    dot = str.length() - i - 1;
+                }
+            }else if(c >= '0' && c <= '9'){
+                num = num * 10 + c - '0';
+            }else{
+                throw new ParseException("unknown digit", i);
+            }
+        }
+        for(int i = 0; i < dot; i++){
+            den = den * 10;
+        }
+        this.num = num;
+        this.den = den;
+        standardize();
+    }
+
     /**
      * Get the sum of two rationals.
      * @param r another {@code Rational} object
@@ -94,7 +124,7 @@ public class Rational {
      * @return a {@code Rational} object representing "this - r",
      * or a {@code null} if {@code r} is {@code null}
      */
-    public Rational substract(Rational r) {
+    public Rational subtract(Rational r) {
         Rational result = null;
         if(r != null){
             int num = this.sign * this.num * r.den - r.sign * r.num * this.den;
@@ -140,12 +170,54 @@ public class Rational {
         return result;
     }
 
+    public Rational mod(Rational r) throws ArithmeticException{
+        Rational result = null;
+        if(r != null){
+            if(r.isZero()){
+                throw new ArithmeticException("divided by zero");
+            }
+            if(!this.isInteger() || !r.isInteger()){
+                throw new ArithmeticException("only integers can do mods");
+            }
+            result = new Rational((sign * num) % (r.sign * r.num));
+        }
+        return result;
+    }
+
+    public Rational factorial() throws ArithmeticException{
+        if(!isInteger() || isNegative()){
+            throw new ArithmeticException("only non-negative integers can do factorials");
+        }
+        int n = 1;
+        for(int i = 2; i <= num; i++){
+            n = n * i;
+        }
+        Rational r = new Rational(n);
+        return r;
+    }
+
+    public Rational negative(){
+        Rational r = new Rational(this);
+        if(!r.isZero()){
+            r.sign = -this.sign;
+        }
+        return r;
+    }
+
     /**
      * Judge if the current {@code Rational} object equals zero
      * @return {@code true} if the rational equals zero, or {@code false} otherwise
      */
     public boolean isZero(){
         return num == 0;
+    }
+
+    public boolean isInteger(){
+        return isZero() || den == 1;
+    }
+
+    public boolean isNegative(){
+        return sign < 0;
     }
 
     /**
@@ -158,11 +230,24 @@ public class Rational {
      * @return  {@code true} if the objects are the same;
      *          {@code false} otherwise.
      */
+    @Override
     public boolean equals(Object obj){
         if(obj instanceof Rational){
             Rational r = (Rational) obj;
             return this.sign == r.sign && this.num == r.num && this.den == r.den;
         }
         return false;
+    }
+
+    public String toString(){
+        return (sign == -1 ? "-" : "") + num + (den == 1 ? "" : "/" + den);
+    }
+
+    /**
+     * Evaluate this rational.
+     * @return the value of this rational
+     */
+    public double value() {
+        return (double)sign * num / den;
     }
 }
