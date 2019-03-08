@@ -11,12 +11,12 @@ Usage
 In each line, input an expression with rationals and operators (+, -, *, /, %, !), and then end with a semicolon (;). Now press Enter to see the result!
 
 Available operators:  
-+ plus/positive sign  
-- minus/negative sign  
-* times  
-/ division  
-% mod (complementation)  
-! factorial
+* + plus/positive sign  
+* - minus/negative sign  
+* * times  
+* / division  
+* % mod (complementation)  
+* ! factorial
 
 Input "quit" / "q" / "exit" / "e" to exit the program.
 
