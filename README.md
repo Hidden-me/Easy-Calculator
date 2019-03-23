@@ -4,7 +4,7 @@ An easy calculator that can evaluate arithmetic expressions.
 User Manual
 ====
 Use command line or shell to open this program.  
-The entry class is entry.Main .  
+The entry class is entry.Calculator .  
 
 Usage
 ----

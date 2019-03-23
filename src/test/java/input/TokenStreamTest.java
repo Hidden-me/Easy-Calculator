@@ -1,7 +1,8 @@
-package test.input; 
+package input;
 
-import arithmetic.*;
-import input.TokenStream;
+import arithmetic.Operator;
+import arithmetic.Rational;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.Before; 
 import org.junit.After; 
@@ -29,13 +30,18 @@ public void after() throws Exception {
 * 
 */ 
 @Test
-public void testGetNextToken() throws Exception { 
-//TODO: Test goes here...
+public void testGetNextToken() throws Exception {
     String s = "44+55+99129";
     TokenStream t = new TokenStream(s);
-    while(t.hasNextToken()){
-        t.getNextToken(true);
-    }
+    Rational a = new Rational(44);
+    Rational b = new Rational(55);
+    Rational c = new Rational(99129);
+    Operator op = new Operator('+');
+    Assert.assertEquals(a, t.getNextToken());
+    Assert.assertEquals(op, t.getNextToken());
+    Assert.assertEquals(b, t.getNextToken());
+    Assert.assertEquals(op, t.getNextToken());
+    Assert.assertEquals(c, t.getNextToken());
 } 
 
 /** 

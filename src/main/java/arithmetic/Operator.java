@@ -39,4 +39,12 @@ public class Operator extends Token {
     public String toString() {
         return String.valueOf(op);
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if(obj instanceof Operator){
+            return ((Operator)obj).op == this.op;
+        }
+        return false;
+    }
 }

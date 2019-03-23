@@ -1,7 +1,5 @@
-package test.arithmetic; 
+package arithmetic;
 
-import java.lang.reflect.*;
-import arithmetic.Rational;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.Before; 
@@ -44,7 +42,7 @@ public void testAdd() throws Exception {
 * 
 */ 
 @Test
-public void testsubtract() throws Exception { 
+public void testSubtract() throws Exception {
 //TODO: Test goes here...
     Rational a = new Rational(1, 2);
     Rational b = new Rational(2, 3);

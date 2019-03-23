@@ -9,18 +9,11 @@ import java.text.ParseException;
  */
 public class TokenStream {
     private String expression;
-    private boolean isEmptyChar(char c){
-        return c == ' ' || c == '\r' || c == '\n';
+    private static boolean isEmptyChar(char c){
+        return c == ' ' || c == '\r' || c == '\n' || c == '\t';
     }
-    private boolean isNumberChar(char c){
+    private static boolean isNumberChar(char c){
         return (c >= '0' && c <= '9') || c == '.';
-    }
-    private String trimStart(String str){
-        int i = 0;
-        while(isEmptyChar(str.charAt(i))){
-            i++;
-        }
-        return str.substring(i);
     }
     private Rational nextNumber(boolean cursorMove){
         int i = 0, dots = 0;
@@ -49,6 +42,13 @@ public class TokenStream {
             e.printStackTrace();
         }
         return result;
+    }
+    public static String trimStart(String str){
+        int i = 0;
+        while(isEmptyChar(str.charAt(i))){
+            i++;
+        }
+        return str.substring(i);
     }
 
     public TokenStream(String str){

@@ -3,9 +3,34 @@ package entry;
 import arithmetic.*;
 import input.TokenStream;
 
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.util.*;
 
-public class Main {
+public class Calculator {
+    private static String preProcess(String exp){
+        exp = exp.trim();
+        char[] s = exp.toCharArray();
+        String result = "";
+        for(int i = 0; i < s.length; i++){
+            if(s[i] == '+' || s[i] == '-'){
+                char c = s[i++];
+                while(i < s.length && (s[i] == '+' || s[i] == '-')){
+                    if(c == s[i]){
+                        c = '+';
+                    }else{
+                        c = '-';
+                    }
+                    i++;
+                }
+                result += c;
+                i--;
+            }else{
+                result += s[i];
+            }
+        }
+        return result;
+    }
     private static ArrayList<Token> createAntiPolish(TokenStream ts){
         ArrayList<Token> tokens = new ArrayList<Token>();
         Stack<Token> stack = new Stack<Token>();
@@ -73,7 +98,7 @@ public class Main {
         }
         return tokens;
     }
-    private static Rational evaluate(ArrayList<Token> tokens){
+    private static Rational evaluateTokens(ArrayList<Token> tokens){
         if(tokens.size() == 0){
             throw new IllegalArgumentException("empty expressions have no value");
         }
@@ -127,57 +152,27 @@ public class Main {
         }
         return (Rational) stack.peek();
     }
-    private static Rational evaluate(String str){
-        TokenStream ts = new TokenStream(str);
-        ArrayList<Token> tokens = createAntiPolish(ts);
+    public String evaluate(String str){
         Rational result = null;
         try{
-            result = evaluate(tokens);
+            TokenStream ts = new TokenStream(str);
+            ArrayList<Token> tokens = createAntiPolish(ts);
+            result = evaluateTokens(tokens);
+            LatestAnswer.updateAnswer(result);
+            return String.valueOf(result.value());
         }catch(Exception e){
-            System.out.println("error");
+            return "error";
         }
-        return result;
     }
-    // merge consecutive '+' and '-'
-    private static String preProcess(String exp){
-        char[] s = exp.toCharArray();
-        String result = "";
-        for(int i = 0; i < s.length; i++){
-            if(s[i] == '+' || s[i] == '-'){
-                char c = s[i++];
-                while(i < s.length && (s[i] == '+' || s[i] == '-')){
-                    if(c == s[i]){
-                        c = '+';
-                    }else{
-                        c = '-';
-                    }
-                    i++;
-                }
-                result += c;
-                i--;
-            }else{
-                result += s[i];
-            }
-        }
-        return result;
-    }
-    public static void main(String[] args) {
+    public void resolveOnConsole() {
         Scanner sc = new Scanner(System.in);
         sc.useDelimiter(";");
         String exp = sc.next();
         exp = preProcess(exp);
         while(!(exp.equals("quit") || exp.equals("q") ||
                 exp.equals("exit") || exp.equals("e"))){
-            Rational ans = null;
-            try{
-                ans = evaluate(exp);
-            }catch(Exception e){
-                System.out.println("error");
-            }
-            if(ans != null){
-                System.out.println(ans.value());
-                LatestAnswer.updateAnswer(ans);
-            }
+            String result = evaluate(exp);
+            System.out.println(result);
             exp = sc.next();
             exp = preProcess(exp);
         }
