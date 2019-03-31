@@ -1,0 +1,1139 @@
+<div id="main">
+            <div class="news">
+                <div class="container">
+
+                    <div class="news-slider owl-carousel owl-theme owl-loaded owl-drag">
+                        
+                        
+                        
+                        
+                        
+                        
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transition:1s; width: 8640px; transform: translate3d(-3600px, 0px, 0px);"><div class="owl-item cloned" style="width: 720px;"><div class="item">
+                            <a title="上海交大谭蔚泓院士获颁拉夫·亚当生物分析化学成就奖和匹兹堡分析化学成就奖" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190328/98429.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海交大谭蔚泓院士获颁拉夫·亚当生物分析化学成就奖和匹兹堡分析化学成就奖" src="/resource/upload/201903/20190328_070959_590.png">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;"><span>核酸和核酸适体在癌症诊疗上</span><span>带来新机遇</span></p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海交大谭蔚泓院士获颁拉夫·亚当生物分析化学成就奖和匹兹堡分析化学成就奖
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item cloned" style="width: 720px;"><div class="item">
+                            <a title="中国科学技术部与日本科学技术振兴机构在上海交通大学举行合作项目研讨会" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190329/98537.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="中国科学技术部与日本科学技术振兴机构在上海交通大学举行合作项目研讨会" src="/resource/upload/201903/20190329_035743_823.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;"><span>“联合探索城市环境和能源问题</span><span>解决方案”</span></p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            中国科学技术部与日本科学技术振兴机构在上海交通大学举行合作项目研讨会
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item cloned" style="width: 720px;"><div class="item">
+                            <a title="国网上海市电力公司与上海交通大学签署合作协议" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190329/98583.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="国网上海市电力公司与上海交通大学签署合作协议" src="/resource/upload/201903/20190329_063043_849.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">共建泛在电力物联网智能感知实验室</p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            国网上海市电力公司与上海交通大学签署合作协议
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item" style="width: 720px;"><div class="item">
+                            <a title="上海交通大学2019年研究生毕业典礼暨学位授予仪式举行" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190330/98719.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海交通大学2019年研究生毕业典礼暨学位授予仪式举行" src="/resource/upload/201903/20190330_092056_217.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">人生无捷径  坚守成大器</p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海交通大学2019年研究生毕业典礼暨学位授予仪式举行
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item" style="width: 720px;"><div class="item">
+                            <a title="上海交通大学弗劳恩霍夫协会智能制造项目中心落户临港" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190328/98425.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海交通大学弗劳恩霍夫协会智能制造项目中心落户临港" src="/resource/upload/201903/20190328_023600_263.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;"><span>中国第一个弗劳恩霍夫项目中心</span><span>正式成立</span></p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海交通大学弗劳恩霍夫协会智能制造项目中心落户临港
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item active" style="width: 720px;"><div class="item">
+                            <a title="上海市政协主席董云虎在上海交大调研座谈" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190330/98673.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海市政协主席董云虎在上海交大调研座谈" src="/resource/upload/201903/20190330_030638_452.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">聚焦陶铝新材料的应用及产业化</p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海市政协主席董云虎在上海交大调研座谈
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item" style="width: 720px;"><div class="item">
+                            <a title="上海交大谭蔚泓院士获颁拉夫·亚当生物分析化学成就奖和匹兹堡分析化学成就奖" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190328/98429.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海交大谭蔚泓院士获颁拉夫·亚当生物分析化学成就奖和匹兹堡分析化学成就奖" src="/resource/upload/201903/20190328_070959_590.png">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;"><span>核酸和核酸适体在癌症诊疗上</span><span>带来新机遇</span></p>
+                                        </h4>
+                                        <p class="des dot is-truncated" style="overflow: hidden; word-wrap: break-word;">
+... </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item" style="width: 720px;"><div class="item">
+                            <a title="中国科学技术部与日本科学技术振兴机构在上海交通大学举行合作项目研讨会" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190329/98537.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="中国科学技术部与日本科学技术振兴机构在上海交通大学举行合作项目研讨会" src="/resource/upload/201903/20190329_035743_823.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;"><span>“联合探索城市环境和能源问题</span><span>解决方案”</span></p>
+                                        </h4>
+                                        <p class="des dot is-truncated" style="overflow: hidden; word-wrap: break-word;">
+... </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item" style="width: 720px;"><div class="item">
+                            <a title="国网上海市电力公司与上海交通大学签署合作协议" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190329/98583.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="国网上海市电力公司与上海交通大学签署合作协议" src="/resource/upload/201903/20190329_063043_849.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">共建泛在电力物联网智能感知实验室</p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            国网上海市电力公司与上海交通大学签署合作协议
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item cloned" style="width: 720px;"><div class="item">
+                            <a title="上海交通大学2019年研究生毕业典礼暨学位授予仪式举行" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190330/98719.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海交通大学2019年研究生毕业典礼暨学位授予仪式举行" src="/resource/upload/201903/20190330_092056_217.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">人生无捷径  坚守成大器</p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海交通大学2019年研究生毕业典礼暨学位授予仪式举行
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item cloned" style="width: 720px;"><div class="item">
+                            <a title="上海交通大学弗劳恩霍夫协会智能制造项目中心落户临港" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190328/98425.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海交通大学弗劳恩霍夫协会智能制造项目中心落户临港" src="/resource/upload/201903/20190328_023600_263.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;"><span>中国第一个弗劳恩霍夫项目中心</span><span>正式成立</span></p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海交通大学弗劳恩霍夫协会智能制造项目中心落户临港
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div><div class="owl-item cloned" style="width: 720px;"><div class="item">
+                            <a title="上海市政协主席董云虎在上海交大调研座谈" class="flex-box block-sm" href="https://news.sjtu.edu.cn/jdyw/20190330/98673.html" target="_blank">
+                                <div class="col-sm-8 no-padding">
+                                    <img alt="上海市政协主席董云虎在上海交大调研座谈" src="/resource/upload/201903/20190330_030638_452.jpg">
+                                </div>
+                                <div class="col-sm-4 no-padding">
+                                    <div class="title title2">
+                                        <h4>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">聚焦陶铝新材料的应用及产业化</p>
+                                        </h4>
+                                        <p class="des dot" style="overflow: hidden; word-wrap: break-word;">
+                                            上海市政协主席董云虎在上海交大调研座谈
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+
+                    <div class="news-list row wow fadeInUp animated" style="visibility: visible; animation-delay: 1.5s;" data-wow-delay="1.5s">
+                        <ul>
+                            <li class="item col-sm-6 col-md-3">
+                                <a href="https://news.sjtu.edu.cn/jdyw/20190326/98173.html" target="_blank">
+                                    <div class="img ImgCrop">
+                                                      <img style="width: 100%; height: 230px; margin-top: -25px;" alt="上海交大召开2019年全面从严治党工作会议" src="/resource/upload/201903/20190326_022118_899.jpg">
+                                    </div>
+                                    <div class="des">
+                                        <h5 class="dot" style="overflow: hidden; word-wrap: break-word;">上海交大召开2019年全面从严治党工作会议</h5>
+                                        <div class="time">
+                                            <span>2019年03月26日</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item col-sm-6 col-md-3">
+                                <a href="https://news.sjtu.edu.cn/jdyw/20190326/98177.html" target="_blank">
+                                    <div class="img ImgCrop">
+                                                      <img style="width: 100%; height: 230px; margin-top: -25px;" alt="上海交通大学召开2019年春夏学期学术委员会会议" src="/resource/upload/201903/20190326_023932_420.jpg">
+                                    </div>
+                                    <div class="des">
+                                        <h5 class="dot" style="overflow: hidden; word-wrap: break-word;">上海交通大学召开2019年春夏学期学术委员会会议</h5>
+                                        <div class="time">
+                                            <span>2019年03月26日</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item col-sm-6 col-md-3">
+                                <a href="https://news.sjtu.edu.cn/jdyw/20190330/98689.html" target="_blank">
+                                    <div class="img ImgCrop">
+                                                      <img style="width: 100%; height: 230px; margin-top: -25px;" alt="东京审判中国团队暨《东京审判征战记》新书发布座谈会在上海交大举行" src="/resource/upload/201903/20190330_021815_959.jpg">
+                                    </div>
+                                    <div class="des">
+                                        <h5 class="dot" style="overflow: hidden; word-wrap: break-word;">东京审判中国团队暨《东京审判征战记》新书发布座谈会在上海交大举行</h5>
+                                        <div class="time">
+                                            <span>2019年03月30日</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item col-sm-6 col-md-3">
+                                <a href="https://news.sjtu.edu.cn/jdyw/20190327/98315.html" target="_blank">
+                                    <div class="img ImgCrop">
+                                                      <img style="width: 100%; height: 230px; margin-top: -25px;" alt="昆明理工大学校领导一行访问上海交大" src="/resource/upload/201903/20190327_064018_703.jpg">
+                                    </div>
+                                    <div class="des">
+                                        <h5 class="dot" style="overflow: hidden; word-wrap: break-word;">昆明理工大学校领导一行访问上海交大</h5>
+                                        <div class="time">
+                                            <span>2019年03月26日</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                           
+                        </ul>
+                    </div>
+
+                    <div class="text-center padding-top-10">
+                              
+                      <a class="newsMore" href="https://news.sjtu.edu.cn/index.html" target="_blank"><i class="iconfont icon-jiahao"></i> 更多新闻</a>
+                      <a class="newsMore" href="https://www.sjtu.edu.cn/tg/index.html" target="_blank"><i class="iconfont icon-jiahao"></i> 更多通告</a>
+                               
+                    </div>
+
+
+
+                    <div class="notice" data-wow-delay="2s">
+                        <h3><a href="/tg/index.html" target="_blank">通告</a></h3>
+                        <!-- <div class="notice-slider owl-carousel owl-theme">
+                            <div class="item">
+                                <a href="/tg/20190329/98533.html" title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a>
+                                <div class="time">2019-03-29</div>
+                            </div>
+                            <div class="item">
+                                <a href="/tg/20190321/97821.html" title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a>
+                                <div class="time">2019-03-21</div>
+                            </div>
+                            <div class="item">
+                                <a href="/tg/20190328/98483.html" title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a>
+                                <div class="time">2019-03-28</div>
+                            </div>
+                            <div class="item">
+                                <a href="/tg/20190316/97501.html" title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a>
+                                <div class="time">2019-03-16</div>
+                            </div>
+                            <div class="item">
+                                <a href="/tg/20190320/97707.html" title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a>
+                                <div class="time">2019-03-20</div>
+                            </div>
+                        </div> -->
+
+                        <div class="notice-slider1213">
+                                <div class="dowebok-hz str_wrap" style="height: 60px;"><ul class="str_move str_origin" style="left: -3904.7px;">
+                                        <li onclick="window.open('/tg/20190329/98533.html')">
+                                            <!-- <a  href="/tg/20190329/98533.html" title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a> -->
+                                            <a title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a>
+                                            <span class="time">2019-03-29</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190321/97821.html')">
+                                            <!-- <a  href="/tg/20190321/97821.html" title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a> -->
+                                            <a title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a>
+                                            <span class="time">2019-03-21</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190328/98483.html')">
+                                            <!-- <a  href="/tg/20190328/98483.html" title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a> -->
+                                            <a title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a>
+                                            <span class="time">2019-03-28</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190316/97501.html')">
+                                            <!-- <a  href="/tg/20190316/97501.html" title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a> -->
+                                            <a title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a>
+                                            <span class="time">2019-03-16</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190320/97707.html')">
+                                            <!-- <a  href="/tg/20190320/97707.html" title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a> -->
+                                            <a title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a>
+                                            <span class="time">2019-03-20</span>
+                                        </li>
+                                <ul class="str_move str_move_clone" style="left: 100%; width: 2497px; right: auto;">
+                                        <li onclick="window.open('/tg/20190329/98533.html')">
+                                            <!-- <a  href="/tg/20190329/98533.html" title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a> -->
+                                            <a title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a>
+                                            <span class="time">2019-03-29</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190321/97821.html')">
+                                            <!-- <a  href="/tg/20190321/97821.html" title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a> -->
+                                            <a title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a>
+                                            <span class="time">2019-03-21</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190328/98483.html')">
+                                            <!-- <a  href="/tg/20190328/98483.html" title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a> -->
+                                            <a title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a>
+                                            <span class="time">2019-03-28</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190316/97501.html')">
+                                            <!-- <a  href="/tg/20190316/97501.html" title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a> -->
+                                            <a title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a>
+                                            <span class="time">2019-03-16</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190320/97707.html')">
+                                            <!-- <a  href="/tg/20190320/97707.html" title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a> -->
+                                            <a title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a>
+                                            <span class="time">2019-03-20</span>
+                                        </li>
+                                </ul><ul class="str_move str_move_clone" style="left: auto; width: 2497px; right: 100%;">
+                                        <li onclick="window.open('/tg/20190329/98533.html')">
+                                            <!-- <a  href="/tg/20190329/98533.html" title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a> -->
+                                            <a title="“在新时代逐梦，与新中国同行”作品征集活动通知" target="_blank">“在新时代逐梦，与新中国同行”作品征集活动通知</a>
+                                            <span class="time">2019-03-29</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190321/97821.html')">
+                                            <!-- <a  href="/tg/20190321/97821.html" title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a> -->
+                                            <a title="关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知" target="_blank">关于申报霍英东教育基金会2019年高等院校“青年教师基金和青年教师奖”的通知</a>
+                                            <span class="time">2019-03-21</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190328/98483.html')">
+                                            <!-- <a  href="/tg/20190328/98483.html" title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a> -->
+                                            <a title="2019年清明节图书馆开馆时间通知" target="_blank">2019年清明节图书馆开馆时间通知</a>
+                                            <span class="time">2019-03-28</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190316/97501.html')">
+                                            <!-- <a  href="/tg/20190316/97501.html" title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a> -->
+                                            <a title="钱学森图书馆关于2019年4月上旬运行开放安排的公告" target="_blank">钱学森图书馆关于2019年4月上旬运行开放安排的公告</a>
+                                            <span class="time">2019-03-16</span>
+                                        </li>
+                                        <li onclick="window.open('/tg/20190320/97707.html')">
+                                            <!-- <a  href="/tg/20190320/97707.html" title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a> -->
+                                            <a title="教学发展中心中期学生反馈MSF服务预约通知" target="_blank">教学发展中心中期学生反馈MSF服务预约通知</a>
+                                            <span class="time">2019-03-20</span>
+                                        </li>
+                                </ul></ul></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="focus section">
+                <div class="container">
+                    <h2 class="category-title">
+                        <span>Research</span>
+                    </h2>
+                    <div class="card">
+                        <div class="help-tip hidden-xs wow bounceInRight animated" style="visibility: visible; animation-delay: 1s;" data-wow-delay="1s">
+                            <div class="tipblock">
+                                <h4>闵行校区『李政道图书馆』</h4>
+                                <img src="/resource/assets/img/building/lzdLibrary.png"> “李政道图书馆”于2014年12月28日落成，由实体图书馆和“李政道数字资源中心”两大部分组成。 李政道图书馆开创性地实现了包括图书馆、档案馆、博物馆、科技馆和艺术馆在内的“五馆合一”的功能定位。
+                                实体图书馆总建筑面积6,500平方米，分为地下一层，地上四层。 诺贝尔物理学奖获得者、著名物理学家李政道教授担任名誉馆长，李中清教授担任馆长。
+                            </div>
+                        </div>
+                        <div class="focus-title wow zoomIn animated" style="visibility: visible;">
+                            <a href="https://news.sjtu.edu.cn/tsfx/index.html" target="_blank"><img title="探索" alt="*" src="/resource/assets/img/svg/title_science.png"></a>
+                        </div>
+
+                        <div class="row">
+
+                            <div class="card-focus col-sm-9 wow slideInLeft animated" style="visibility: visible;">
+                                <ul class="focus-list clearfix">
+                                    <li class="item top col-xs-4 wow slideInLeft animated" style="visibility: visible;">
+                                        <a href="https://news.sjtu.edu.cn/jdzh/20190328/98439.html" target="_blank">
+                                            <div class="img ImgCrop">
+                                                <img style="width: 205.36px; height: 100%; margin-left: -22.68px;" alt="附属九院匡延平团队发现并命名人类新遗传疾病“卵子死亡”" src="/resource/upload/201903/20190328_073652_942.png">
+                                            </div>
+                                            <div class="des">
+                                                <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">附属九院匡延平团队发现并命名人类新... </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="item top col-xs-4 wow slideInUp animated" style="visibility: visible;">
+                                        <a href="https://news.sjtu.edu.cn/jdzh/20190328/98445.html" target="_blank">
+                                            <div class="img ImgCrop">
+                                                <img style="width: 205.26px; height: 100%; margin-left: -22.63px;" alt="附属仁济医院许杰课题组在《自然》子刊发表PD-L1棕榈酰化修饰及相应抑制剂开发策略" src="/resource/upload/201903/20190328_074819_213.png">
+                                            </div>
+                                            <div class="des">
+                                                <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">附属仁济医院许杰课题组在《自然》子... </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="item top right col-xs-4 wow slideInRight animated" style="visibility: visible;">
+                                        <a href="https://news.sjtu.edu.cn/jdzh/20190321/97811.html" target="_blank">
+                                            <div class="img ImgCrop">
+                                                <img style="width: 205.26px; height: 100%; margin-left: -22.63px;" alt="上海交大团队在小分子烷烃厌氧代谢古菌研究中获进展" src="/resource/upload/201903/20190321_024237_306.jpg">
+                                            </div>
+                                            <div class="des">
+                                                <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">上海交大团队在小分子烷烃厌氧代谢古... </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="item col-xs-4 wow slideInUp animated" style="visibility: visible;">
+                                        <a href="https://news.sjtu.edu.cn/jdzh/20190320/97735.html" target="_blank">
+                                            <div class="img ImgCrop">
+                                                <img style="width: 205.3px; height: 100%; margin-left: -22.65px;" alt="上海交大材料学院科研团队在超柔性纳米发电复合材料领域取得的重要进展" src="/resource/upload/201903/20190320_095726_533.jpg">
+                                            </div>
+                                            <div class="des">
+                                                <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">上海交大材料学院科研团队在超柔性纳... </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="item col-xs-4 wow slideInRight animated" style="visibility: visible;">
+                                        <a href="https://news.sjtu.edu.cn/jdzh/20190319/97611.html" target="_blank">
+                                            <div class="img ImgCrop">
+                                                <img style="width: 205.26px; height: 100%; margin-left: -22.63px;" alt="上海交大数学科学学院麻志浩教授和中科大潘建伟院士团队合作在量子信息方面取得重要成果" src="/resource/upload/201903/20190319_084525_728.jpg">
+                                            </div>
+                                            <div class="des">
+                                                <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">上海交大数学科学学院麻志浩教授和中... </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+
+
+                            <div class="card-notice wow slideInRight animated" style="visibility: visible;">
+                                <div class="notice-row SJTUdata owl-carousel owl-theme owl-loaded owl-drag">
+                                    
+
+                                    
+
+                                    
+
+                                    
+
+                                    
+
+                                    
+
+                                    
+
+                                    
+                                <div class="owl-stage-outer"><div class="owl-stage" style="transition:1s; width: 2256px; transform: translate3d(-846px, 0px, 0px);"><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-manager"></i>
+                                            <h1>22 <small>名</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">中国科学院院士</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-determination"></i>
+                                            <h1>22 <small>名</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">中国工程院院士</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-networking"></i>
+                                            <h1>12 <small>位</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2018全球高被引科学家</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-conference"></i>
+                                            <h1>3061 <small>名</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">全校专任教师</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-trophy"></i>
+                                            <h1>4 <small>连冠</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">挑战杯”特等奖，全国唯一</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-browser"></i>
+                                            <h1>3 <small>夺总冠军</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">ACM世界大学生计算机程序设计大赛</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-mountain"></i>
+                                            <h1>5 <small>个特等奖</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2018美国国际大学生数学建模竞赛获奖</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-brainstorming"></i>
+                                            <h1>No.1 </h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2018-2019赛季VEX机器人亚洲公开赛夺冠</p>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-atom"></i>
+                                            <h1>17 <small>个</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">国家“双一流”学科</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-leadership"></i>
+                                            <h1>5 <small>个</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">全国A+学科，25个... </p>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-computer"></i>
+                                            <h1>10 <small>个</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">世界Top50学科... </p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-earth-globe margin-bottom-30"></i>
+                                            <h1>19 <small>个</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">ESI全球前1%学科... </p>
+                                        </div>
+                                    </div></div><div class="owl-item active" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-growth margin-bottom-30"></i>
+                                            <h1>1083 <small>项</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">获2018年度国家自然科学基金各类资助</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-global"></i>
+                                            <h1>22 <small>个</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">2016-2018年获国... </p>
+                                        </div>
+                                    </div></div><div class="owl-item active" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-increase"></i>
+                                            <h1>36.9 <small>亿元</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2018年度科研经费</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-chat-bubble"></i>
+                                            <h1>No.1 </h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">SCI论文数和国际卓越论文数全国高校第一</p>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-manager"></i>
+                                            <h1>22 <small>名</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">中国科学院院士</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-determination"></i>
+                                            <h1>22 <small>名</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">中国工程院院士</p>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-networking"></i>
+                                            <h1>12 <small>位</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">2018全球高被引科... </p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-conference"></i>
+                                            <h1>3061 <small>名</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">全校专任教师</p>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-trophy"></i>
+                                            <h1>4 <small>连冠</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">挑战杯”特等奖，... </p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-browser"></i>
+                                            <h1>3 <small>夺总冠军</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">ACM世界大学生计... </p>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-mountain"></i>
+                                            <h1>5 <small>个特等奖</small></h1>
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">2018美国国际大学... </p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-brainstorming"></i>
+                                            <h1>No.1 </h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2018-2019赛季VEX机器人亚洲公开赛夺冠</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-atom"></i>
+                                            <h1>17 <small>个</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">国家“双一流”学科</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-leadership"></i>
+                                            <h1>5 <small>个</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">全国A+学科，25个全国A类学科</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-computer"></i>
+                                            <h1>10 <small>个</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">世界Top50学科，25个世界Top100学科（QS世界大学学科排名）</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-earth-globe margin-bottom-30"></i>
+                                            <h1>19 <small>个</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">ESI全球前1%学科，7个前1‰学科，1个前1‱学科</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-growth margin-bottom-30"></i>
+                                            <h1>1083 <small>项</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">获2018年度国家自然科学基金各类资助</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-global"></i>
+                                            <h1>22 <small>个</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2016-2018年获国家社科基金各类重大项目</p>
+                                        </div>
+                                    </div></div><div class="owl-item cloned" style="width: 131px; margin-right: 10px;"><div class="item">
+                                        <div class="margin-bottom-10">
+                                            <i class="iconfont icon-increase"></i>
+                                            <h1>36.9 <small>亿元</small></h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">2018年度科研经费</p>
+                                        </div>
+                                        <div>
+                                            <i class="iconfont icon-chat-bubble"></i>
+                                            <h1>No.1 </h1>
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">SCI论文数和国际卓越论文数全国高校第一</p>
+                                        </div>
+                                    </div></div></div></div><div class="owl-nav"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="science learning section">
+                <div class="container">
+                    <h2 class="category-title">
+                        <span>Academics</span>
+                    </h2>
+                    <div class="relative">
+
+                        <h3 class="learning-title wow slideInUp animated" style="visibility: visible;">
+                            <a href="https://news.sjtu.edu.cn/xsjz/index.html" target="_blank"><img src="/resource/assets/img/svg/title_learning.png"></a>
+                            <div class="sb-1"></div>
+                            <div class="help-tip hidden-xs wow slideInRight animated" style="visibility: visible; animation-delay: 0.5s;" data-wow-delay="0.5s">
+                                <div class="tipblock">
+                                    <h4>徐汇校区『钱学森图书馆』</h4>
+                                    <img src="/resource/assets/img/building/qxsLibrary.png"> 坐落在上海交通大学徐汇校区的钱学森图书馆，于2011年12月11日钱学森诞辰100周年之际建成对外开放。 图书馆总用地面积9300平方米，总建筑面积8188平方米，地下一层，地上三层，陈展面积约3000余平方米。
+                                    馆内基本展览分为中国航天事业奠基人、科学技术前沿的开拓者、人民科学家风范和战略科学家的成功之道四个部分。
+                                </div>
+                            </div>
+                        </h3>
+
+                        <div class="clearfix learning-content">
+                            <div class="card card-learning-1 col-sm-7 col-md-offset-1 wow fadeInLeft animated" style="visibility: visible;">
+                                <div class="learning-slider owl-carousel owl-theme owl-loaded owl-drag" id="xsjz"><div class="owl-stage-outer"><div class="owl-stage" style="transition:1s; width: 3312px; transform: translate3d(-1656px, 0px, 0px);"><div class="owl-item cloned" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190315/97479.html" target="_blank"><div class="time"><span>2019-04-11</span></div><div class="des"><p>中欧在新丝绸之路上的合作：一项实现共同目标的均衡方针？</p></div><div class="person"><p>Marijk van der Wende（乌得勒支大学）</p></div><div class="address">闵行校区陈瑞球楼242</div></a></div></div><div class="owl-item cloned" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190327/98291.html" target="_blank"><div class="time"><span>2019-04-02</span></div><div class="des"><p>研究型学习</p></div><div class="person"><p>邱意弘</p></div><div class="address">闵行校区陈瑞球楼504室</div></a></div></div><div class="owl-item" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190327/98297.html" target="_blank"><div class="time"><span>2019-04-23</span></div><div class="des"><p>变革中的大学博物馆：新形象、新受众、新方法</p></div><div class="person"><p>Marta Lourenço 等</p></div><div class="address">徐汇校区钱学森图书馆B13会议室</div></a></div></div><div class="owl-item" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190327/98329.html" target="_blank"><div class="time"><span>2019-04-11</span></div><div class="des"><p>软界面电分析化学简介</p></div><div class="person"><p>邵元华</p></div><div class="address">闵行校区化学A楼528演讲厅</div></a></div></div><div class="owl-item active" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190315/97479.html" target="_blank"><div class="time"><span>2019-04-11</span></div><div class="des"><p>中欧在新丝绸之路上的合作：一项实现共同目标的均衡方针？</p></div><div class="person"><p>Marijk van der Wende（乌得勒支大学）</p></div><div class="address">闵行校区陈瑞球楼242</div></a></div></div><div class="owl-item" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190327/98291.html" target="_blank"><div class="time"><span>2019-04-02</span></div><div class="des"><p>研究型学习</p></div><div class="person"><p>邱意弘</p></div><div class="address">闵行校区陈瑞球楼504室</div></a></div></div><div class="owl-item cloned" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190327/98297.html" target="_blank"><div class="time"><span>2019-04-23</span></div><div class="des"><p>变革中的大学博物馆：新形象、新受众、新方法</p></div><div class="person"><p>Marta Lourenço 等</p></div><div class="address">徐汇校区钱学森图书馆B13会议室</div></a></div></div><div class="owl-item cloned" style="width: 414px;"><div class="item"><a title="" href="https://news.sjtu.edu.cn/xsjz/20190327/98329.html" target="_blank"><div class="time"><span>2019-04-11</span></div><div class="des"><p>软界面电分析化学简介</p></div><div class="person"><p>邵元华</p></div><div class="address">闵行校区化学A楼528演讲厅</div></a></div></div></div></div><div class="owl-nav"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                            </div>
+                            <div class="card card-learning-2 col-md-3 col-sm-4 wow fadeInRight animated" style="visibility: visible; animation-delay: 0.5s;" data-wow-delay="0.5s">
+                                <h4 class="calendar-title">
+                                    <span>学术日历</span>
+                                </h4>
+                                <div class="learning-date-picker"><div class="datetimepicker datetimepicker-inline"><div class="datetimepicker-minutes" style="display: none;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th class="switch" colspan="5">31 三月 2019</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="minute">12:00</span><span class="minute">12:05</span><span class="minute">12:10</span><span class="minute">12:15</span><span class="minute">12:20</span><span class="minute active">12:25</span><span class="minute">12:30</span><span class="minute">12:35</span><span class="minute">12:40</span><span class="minute">12:45</span><span class="minute">12:50</span><span class="minute">12:55</span></td></tr></tbody><tfoot><tr><th class="today" style="display: none;" colspan="7">今天</th></tr><tr><th class="clear" style="display: none;" colspan="7">Clear</th></tr></tfoot></table></div><div class="datetimepicker-hours" style="display: none;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th class="switch" colspan="5">31 三月 2019</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="hour">0:00</span><span class="hour">1:00</span><span class="hour">2:00</span><span class="hour">3:00</span><span class="hour">4:00</span><span class="hour">5:00</span><span class="hour">6:00</span><span class="hour">7:00</span><span class="hour">8:00</span><span class="hour">9:00</span><span class="hour">10:00</span><span class="hour">11:00</span><span class="hour active">12:00</span><span class="hour">13:00</span><span class="hour">14:00</span><span class="hour">15:00</span><span class="hour">16:00</span><span class="hour">17:00</span><span class="hour">18:00</span><span class="hour">19:00</span><span class="hour">20:00</span><span class="hour">21:00</span><span class="hour">22:00</span><span class="hour">23:00</span></td></tr></tbody><tfoot><tr><th class="today" style="display: none;" colspan="7">今天</th></tr><tr><th class="clear" style="display: none;" colspan="7">Clear</th></tr></tfoot></table></div><div class="datetimepicker-days" style="display: block;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th class="switch" colspan="5">三月 2019</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr><tr><th class="dow">一</th><th class="dow">二</th><th class="dow">三</th><th class="dow">四</th><th class="dow">五</th><th class="dow">六</th><th class="dow">日</th></tr></thead><tbody><tr><td class="day old disabled active">25</td><td class="day old disabled active">26</td><td class="day old disabled">27</td><td class="day old disabled active">28</td><td class="day disabled">1</td><td class="day disabled">2</td><td class="day disabled">3</td></tr><tr><td class="day disabled">4</td><td class="day disabled">5</td><td class="day disabled">6</td><td class="day disabled">7</td><td class="day disabled">8</td><td class="day disabled">9</td><td class="day disabled">10</td></tr><tr><td class="day disabled">11</td><td class="day disabled active">12</td><td class="day disabled active">13</td><td class="day disabled active">14</td><td class="day disabled active">15</td><td class="day disabled">16</td><td class="day disabled">17</td></tr><tr><td class="day disabled active">18</td><td class="day disabled active">19</td><td class="day disabled active">20</td><td class="day disabled active">21</td><td class="day disabled">22</td><td class="day disabled">23</td><td class="day disabled">24</td></tr><tr><td class="day disabled active">25</td><td class="day disabled active">26</td><td class="day disabled">27</td><td class="day disabled active">28</td><td class="day disabled active">29</td><td class="day disabled">30</td><td class="day disabled">31</td></tr><tr><td class="day new disabled">1</td><td class="day new disabled">2</td><td class="day new disabled">3</td><td class="day new disabled">4</td><td class="day new disabled">5</td><td class="day new disabled">6</td><td class="day new disabled">7</td></tr></tbody><tfoot><tr><th class="today" style="display: none;" colspan="7">今天</th></tr><tr><th class="clear" style="display: none;" colspan="7">Clear</th></tr></tfoot></table></div><div class="datetimepicker-months" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th class="switch" colspan="5">2019</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="month">一月</span><span class="month">二月</span><span class="month active">三月</span><span class="month">四月</span><span class="month">五月</span><span class="month">六月</span><span class="month">七月</span><span class="month">八月</span><span class="month">九月</span><span class="month">十月</span><span class="month">十一月</span><span class="month">十二月</span></td></tr></tbody><tfoot><tr><th class="today" style="display: none;" colspan="7">今天</th></tr><tr><th class="clear" style="display: none;" colspan="7">Clear</th></tr></tfoot></table></div><div class="datetimepicker-years" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th class="switch" colspan="5">2010-2019</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="year ">2009</span><span class="year">2010</span><span class="year">2011</span><span class="year">2012</span><span class="year">2013</span><span class="year">2014</span><span class="year">2015</span><span class="year">2016</span><span class="year">2017</span><span class="year">2018</span><span class="year active">2019</span><span class="year ">2020</span></td></tr></tbody><tfoot><tr><th class="today" style="display: none;" colspan="7">今天</th></tr><tr><th class="clear" style="display: none;" colspan="7">Clear</th></tr></tfoot></table></div></div></div>
+                            </div>
+                            <div class="card-learning-frame wow fadeInUp animated" style="visibility: visible; animation-duration: 2s; animation-delay: 1s;" data-wow-delay="1s" data-wow-duration="2s"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="container">
+                    <h2 class="category-title">
+                        <span>SJTU Story</span>
+                    </h2>
+                    <div class="card">
+                        <div class="column-title wow zoomInUp animated" style="visibility: visible;">
+                            <a href="https://news.sjtu.edu.cn/ztzl/index.html" target="_blank"><img src="/resource/assets/img/svg/title_column.png"></a>
+                            <div class="help-tip hidden-xs wow slideInUp animated" style="visibility: visible; animation-delay: 0.5s;" data-wow-delay="0.5s">
+                                <div class="tipblock">
+                                    <h4>徐汇校区『中院』</h4>
+                                    <img src="/resource/assets/img/building/oldbuilding.png">  中院采用的是英国样式主义风格，设计师福开森的说法是，中院建筑很时尚，和外滩的上海海关和商业银行有异曲同工之妙，建筑采用的是当时最好的建材。中院坐北朝南，建筑的平面基本为长方形，左右对称。其外立面没有非常繁复的装饰和复杂的柱头柱式，而是以简洁的拱券门廊为主。整个建筑为西方传统的三段式结构，东西两段平面凸出于建筑主体，而其上宽大的半圆形山花墙也高出屋顶，和建筑中间的三角形山花相呼应，形成了端庄大方的主立面。值得注意的是，中院立面正中镶嵌着一块长2.5米，高0.6米的石刻楼铭，上面镌刻着“南洋公学中院”六个庄严工整的楷书大字。这块楼铭从建成至今依然保存完好。
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-10 col-sm-offset-1">
+                            <div class="column-list owl-carousel owl-theme wow fadeInUp owl-loaded owl-drag animated" style="visibility: visible; animation-delay: 1.6s;" data-wow-delay="1.6s">
+                                
+                                
+                                
+                                
+                                
+                                
+                            <div class="owl-stage-outer"><div class="owl-stage" style="transition:1s; width: 1995px; transform: translate3d(-997px, 0px, 0px);"><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="王健：联心师生群益 严实信任之访" href="https://news.sjtu.edu.cn/ztzl_fwzx/20190329/98581.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="王健：联心师生群益 严实信任之访" src="/resource/upload/201903/20190329_064852_225.jpg">
+                                                            </div>
+                                            <p>服务之星</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">王健：联心师生群益 严实信任之访</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="在金融普及性与稳定性之间求取平衡（等4则）" href="https://news.sjtu.edu.cn/yzsy/20190324/98033.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 130.46px; height: 100%; margin-left: -3.73px;" alt="" src="/resource/assets/upload/column-1.jpg">
+                                                            </div>
+                                            <p>一周声音</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">在金融普及性与稳定性之间求取平衡（等4则）</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="钮晓音：脚踏实地立足教学管理，默默奉献守候教育初心" href="https://news.sjtu.edu.cn/ztzl_fwzx/20190321/97823.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="钮晓音：脚踏实地立足教学管理，默默奉献守候教育初心" src="/resource/upload/201903/20190321_034103_316.jpg">
+                                                            </div>
+                                            <p>服务之星</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">钮晓音：脚踏实地立足教学管理，默默奉献守候教育初心</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="马鸿宇：肩负使命 负重前行" href="https://news.sjtu.edu.cn/ztzl_qczj/20190320/97743.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="马鸿宇：肩负使命 负重前行" src="/resource/upload/201903/20190320_081502_317.jpg">
+                                                            </div>
+                                            <p>青春足迹</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">马鸿宇：肩负使命 负重前行</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="马来西亚留学生陈恬：像甜橙一样阳光、沁爽的女孩" href="https://news.sjtu.edu.cn/ztzl_qczj/20190331/98807.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="马来西亚留学生陈恬：像甜橙一样阳光、沁爽的女孩" src="/resource/upload/201903/20190331_031314_778.jpg">
+                                                            </div>
+                                            <p>青春足迹</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">马来西亚留学生陈恬：像甜橙一样阳光、沁爽的女孩</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="新能源车并不会颠覆汽车产业（等4则）" href="https://news.sjtu.edu.cn/yzsy/20190330/98695.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 130.46px; height: 100%; margin-left: -3.73px;" alt="" src="/resource/assets/upload/column-1.jpg">
+                                                            </div>
+                                            <p>一周声音</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">新能源车并不会颠覆汽车产业（等4则）</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="王健：联心师生群益 严实信任之访" href="https://news.sjtu.edu.cn/ztzl_fwzx/20190329/98581.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="王健：联心师生群益 严实信任之访" src="/resource/upload/201903/20190329_064852_225.jpg">
+                                                            </div>
+                                            <p>服务之星</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">王健：联心师生群益 严实信任之访</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item active" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="在金融普及性与稳定性之间求取平衡（等4则）" href="https://news.sjtu.edu.cn/yzsy/20190324/98033.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 130.46px; height: 100%; margin-left: -3.73px;" alt="" src="/resource/assets/upload/column-1.jpg">
+                                                            </div>
+                                            <p>一周声音</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">在金融普及性与稳定性之间求取平衡（等4则）</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item active" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="钮晓音：脚踏实地立足教学管理，默默奉献守候教育初心" href="https://news.sjtu.edu.cn/ztzl_fwzx/20190321/97823.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="钮晓音：脚踏实地立足教学管理，默默奉献守候教育初心" src="/resource/upload/201903/20190321_034103_316.jpg">
+                                                            </div>
+                                            <p>服务之星</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">钮晓音：脚踏实地立足教学管理，默默奉献守候教育... </p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item active" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="马鸿宇：肩负使命 负重前行" href="https://news.sjtu.edu.cn/ztzl_qczj/20190320/97743.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="马鸿宇：肩负使命 负重前行" src="/resource/upload/201903/20190320_081502_317.jpg">
+                                                            </div>
+                                            <p>青春足迹</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">马鸿宇：肩负使命 负重前行</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned active" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="马来西亚留学生陈恬：像甜橙一样阳光、沁爽的女孩" href="https://news.sjtu.edu.cn/ztzl_qczj/20190331/98807.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="马来西亚留学生陈恬：像甜橙一样阳光、沁爽的女孩" src="/resource/upload/201903/20190331_031314_778.jpg">
+                                                            </div>
+                                            <p>青春足迹</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">马来西亚留学生陈恬：像甜橙一样阳光、沁爽的女孩</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="新能源车并不会颠覆汽车产业（等4则）" href="https://news.sjtu.edu.cn/yzsy/20190330/98695.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 130.46px; height: 100%; margin-left: -3.73px;" alt="" src="/resource/assets/upload/column-1.jpg">
+                                                            </div>
+                                            <p>一周声音</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">新能源车并不会颠覆汽车产业（等4则）</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="王健：联心师生群益 严实信任之访" href="https://news.sjtu.edu.cn/ztzl_fwzx/20190329/98581.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 190px; height: 100%; margin-left: -33.5px;" alt="王健：联心师生群益 严实信任之访" src="/resource/upload/201903/20190329_064852_225.jpg">
+                                                            </div>
+                                            <p>服务之星</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">王健：联心师生群益 严实信任之访</p>
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item cloned" style="width: 142.5px;"><div class="item">
+                                   
+                                    <a title="在金融普及性与稳定性之间求取平衡（等4则）" href="https://news.sjtu.edu.cn/yzsy/20190324/98033.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                            <div class="ImgCrop">
+                                                                <img style="width: 130.46px; height: 100%; margin-left: -3.73px;" alt="" src="/resource/assets/upload/column-1.jpg">
+                                                            </div>
+                                            <p>一周声音</p>
+                                        </div>
+                                        <div class="info">
+                                            <p class="dot" style="overflow: hidden; word-wrap: break-word;">在金融普及性与稳定性之间求取平衡（等4则）</p>
+                                        </div>
+                                    </a>
+                                </div></div></div></div><div class="owl-nav"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                        </div>
+                    </div>
+                    <div class="col-sm-10 col-sm-offset-1 more-box1210">
+                        <a class="newsMore newsMore1210" href="https://news.sjtu.edu.cn/ztzl/index.html" target="_blank"><i class="iconfont icon-jiahao"></i> 更多专栏</a>
+                    </div>
+                </div>
+                <div class="column-farme1 wow slideInUp animated" style="visibility: visible; animation-delay: 1s;" data-wow-delay="1s"></div>
+                <div class="column-farme2 wow slideInUp animated" style="visibility: visible;"></div>
+
+            </div>
+
+            <!---校园------>
+            <div class="schoolyard section">
+                <div class="container">
+                    <h2 class="category-title">
+                        <span>Campus Life</span>
+                    </h2>
+                    <div class="schoolTitle wow zoomInDown animated" style="visibility: visible;">
+                        <a href="https://news.sjtu.edu.cn/hlxy/index.html" target="_blank"><img title="校园" alt="*" src="/resource/assets/img/svg/title-school.png"></a>
+                        <a class="help-tip hidden-xs wow bounceInUp animated" style="visibility: visible; animation-delay: 2s;" href="https://news.sjtu.edu.cn/hlxy/index.html" target="_blank" data-wow-delay="2s">
+                            <div class="tipblock">
+                                <h4>徐汇校区『老图书馆』</h4>
+                                <img src="/resource/assets/img/building/oldLibrary.png"> 
+                                老图书馆是进入交大徐汇校区是中央绿地旁一道最美的风景。老图书馆位于中央绿地东侧，于1918年2月20日开工，1919年10月10日建成，总耗资8万多元。 该楼为三层楼洋房，既有代表着西方古典主义的罗写科林斯柱式（corinth
+                                ）风格的表现，也有巴洛克建筑的细部雕刻、山花及对比色彩的运用。
+                            </div>
+                        </a>
+                    </div>
+                    <div class="row flex-box block-sm flex-box1130">
+                       
+                        <div class="col-sm-6 col-md-5 hall-big wow slideInUp animated" style="visibility: visible;">
+                            <img class="hall-roof" src="/resource/assets/img/svg/school.png">
+                            <ul class="wxlist squarePicList  wow fadeIn animated" style="visibility: visible; animation-delay: 1s;" data-wow-delay="1s">
+                                <li> 
+                                
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190305/96621.html" target="_blank">
+                                         <div class="ImgCrop ImgCrop1110"><img style="width: 341.33px; height: 100%; margin-left: -3.16px;" alt="高考倒计时ing！星球全景祝你“圆”梦交大" src="/resource/upload/201903/20190305_005840_128.jpg"></div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">高考倒计时ing！星球全景祝你“圆”梦交大</p>
+                                    </a>
+                                </li>
+                                <li>
+                                               
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190305/96623.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                 <img style="width: 100%; height: 60px; margin-top: 0px;" alt="开学啦！棉被里塞秋裤？交大人的行李箱，还有哪些秘密……" src="/resource/upload/201903/20190305_010249_169.jpg">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">开学啦！棉被里塞秋裤？交大人的行李箱，还有哪些秘密……</p>
+                                    </a>
+                                </li>
+                                <li>
+                                              
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190221/96091.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                 <img style="width: 122.68px; height: 100%; margin-left: -31.34px;" alt="“吃货”博主上线！马铃薯还能做蛋糕？交大美食视频教程，快收藏！ " src="/resource/upload/201902/20190221_012651_810.gif">
+                                        </div>
+                                        <p class="dot is-truncated" style="overflow: hidden; word-wrap: break-word;">“吃货”博主上线！马铃薯还能做蛋糕？交大美食视频教程，快... </p>
+                                    </a>
+                                </li>
+                                <li>
+                                                
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190222/96145.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                 <img style="width: 106.57px; height: 100%; margin-left: -23.28px;" alt="央视首发120秒短片：“救”在身边，创意口诀“狙击”心脏骤停 " src="/resource/upload/201902/20190222_012107_257.jpg">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">央视首发120秒短片：“救”在身边，创意口诀“狙击”心脏骤停 </p>
+                                    </a>
+                                </li>
+                                <li>
+                                                
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20181224/93355.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                 <img style="width: 106.75px; height: 100%; margin-left: -23.37px;" alt="咔嚓！交大时光机，40张图，穿梭改革开放40年！ " src="/resource/upload/201812/20181224_065358_366.png">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">咔嚓！交大时光机，40张图，穿梭改革开放40年！ </p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-2 hall-small hidden-sm hidden-xs wow slideInUp animated" style="visibility: visible; animation-delay: 0.8s;" data-wow-delay="0.8s">
+                            <img class="hall-roof" src="/resource/assets/img/svg/school.png">
+                        </div>
+                        <div class="col-sm-6 col-md-5 hall-big hall-right wow slideInUp animated" style="visibility: visible; animation-delay: 0.5s;" data-wow-delay="0.5s">
+                            <img class="hall-roof hidden-xs" src="/resource/assets/img/svg/school.png">
+                            <ul class="wxlist squarePicList wx-right wow fadeIn animated" style="visibility: visible; animation-delay: 1.5s;" data-wow-delay="1.5s">
+                                <li>
+                                                
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190305/96625.html" target="_blank">
+                                                         <div class="ImgCrop ImgCrop1110"> <img style="width: 100%; height: 216.7px; margin-top: -8.35px;" alt="问世间晴为何物？24节气版大美交大，让阳光不舍流浪！" src="/resource/upload/201903/20190305_010515_546.jpg"></div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">问世间晴为何物？24节气版大美交大，让阳光不舍流浪！</p>
+                                    </a>
+                                </li>
+                                <li>
+                                                
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190117/95211.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                 <img style="width: 106.66px; height: 100%; margin-left: -23.33px;" alt="2019交大月历｜陪你期待和记录新年每一天" src="/resource/upload/201901/20190117_134313_804.jpg">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">2019交大月历｜陪你期待和记录新年每一天</p>
+                                    </a>
+                                </li>
+                                <li>
+                                                 
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190222/96143.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                <img style="width: 89.71px; height: 100%; margin-left: -14.85px;" alt="新学期，交大人立下这12个追梦flag！" src="/resource/upload/201902/20190222_010410_537.jpg">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">新学期，交大人立下这12个追梦flag！</p>
+                                    </a>
+                                </li>
+                                <li>
+                                                    
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190221/96087.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                                                <img style="width: 89.92px; height: 100%; margin-left: -14.96px;" alt="今日宜表白｜说实话，哪个瞬间让你爱上交大？" src="/resource/upload/201902/20190221_011326_679.jpg">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">今日宜表白｜说实话，哪个瞬间让你爱上交大？</p>
+                                    </a>
+                                    
+                                </li>
+                                <li>
+                                    <a href="https://news.sjtu.edu.cn/hlxy/20190221/96079.html" target="_blank">
+                                        <div class="img ImgCrop">
+                                            <img style="width: 100%; height: 71.43px; margin-top: -5.71px;" alt="“拖鞋门”的前世今生！东川路800号，陪交大人迎接新学期" src="/resource/upload/201902/20190221_010428_922.jpg">
+                                        </div>
+                                        <p class="dot" style="overflow: hidden; word-wrap: break-word;">“拖鞋门”的前世今生！东川路800号，陪交大人迎接新学期</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                                
+                    </div>
+                </div>
+            </div>
+
+            <!---快速链接------------>
+            <div class="quick-link">
+                <div class="container">
+                    <h4 class="page-header"><span>快速入口</span></h4>
+                    <ul>
+                        <li class="li1119">
+                            <a href="http://my.sjtu.edu.cn/" target="_blank">
+                                <i class="iconfont icon-yonghu1"></i>
+                                <p>My SJTU</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://houqin.sjtu.edu.cn/sview.asp?id=300" target="_blank">
+                                <i class="iconfont icon-dabache"></i>
+                                <p>班车信息</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://www.lib.sjtu.edu.cn/" target="_blank">
+                                <i class="iconfont icon-tushu"></i>
+                                <p>图书资料</p>
+                            </a>
+                            </li>
+                        <li class="li1119">
+                            <a href="http://mail.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-youxiang"></i>
+                                <p>交大邮箱</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://electsys.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-yonghu1"></i>
+                                <p>教学信息服务</p>
+                            </a>
+                        </li>
+                        
+                        <li class="li1119">
+                            <a href="http://vi.sjtu.edu.cn/" target="_blank">
+                                <i class="iconfont icon-yan"></i>
+                                <p>视觉形象识别系统</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="https://www.sjtu.edu.cn/opinion/index.html" target="_blank">
+                                <i class="iconfont icon-pinglun"></i>
+                                <p>机关服务评议</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://xygl.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-guanli"></i>
+                                <p>校园管理</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://bwc.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-anquan"></i>
+                                <p>校园安全</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://info.sjtu.edu.cn/index.aspx?jatkt=rejected" target="_blank">
+                                <i class="iconfont icon-zonghe1"></i>
+                                <p>综合信息</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="https://net.sjtu.edu.cn/" target="_blank">
+                                <i class="iconfont icon-hulianwangleitubiaolunkuo-"></i>
+                                <p>网络信息中心</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://gk.sjtu.edu.cn/" target="_blank">
+                                <i class="iconfont icon-hulianwangleitubiaolunkuo-"></i>
+                                <p>信息公开</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="https://oc.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-hulianwangleitubiaolunkuo-"></i>
+                                <p>在线教学平台</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="https://news.sjtu.edu.cn/jdyw/20180405/11199.html" target="_blank">
+                                <i class="iconfont icon-hulianwangleitubiaolunkuo-"></i>
+                                <p>科研资金政策</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://lc.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-hulianwangleitubiaolunkuo-"></i>
+                                <p>地方合作</p>
+                            </a>
+                        </li>
+                        <li class="li1119">
+                            <a href="http://postd.sjtu.edu.cn" target="_blank">
+                                <i class="iconfont icon-hulianwangleitubiaolunkuo-"></i>
+                                <p>博士后流动站</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
