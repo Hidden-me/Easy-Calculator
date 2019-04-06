@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/design.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/arithmetic/RationalTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/input/TokenStreamTest.java" charset="GBK" />
+  </component>
+</project>
