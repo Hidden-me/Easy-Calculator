@@ -1,4 +1,4 @@
-package entry;
+package org.easycalculator.entry;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.*;

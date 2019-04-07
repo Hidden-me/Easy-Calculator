@@ -7,7 +7,7 @@ import java.text.ParseException;
  * and a series of calculating methods for rationals.
  */
 public class Rational extends Token {
-    private int num, den; // large values might cause overflow
+    private long num, den; // large values might cause overflow
     private int sign = 1; // 1 indicates positivity or zero, while -1 means negativity
     // use this method to keep num and den positive
     private void processSign(){
@@ -19,10 +19,13 @@ public class Rational extends Token {
             sign = -sign;
             den = -den;
         }
+        if(num == 0){
+            sign = 1;
+        }
     }
     // use this method to calculate the greatest common divisor
-    private int getGCD(){
-        int a = num, b = den, c = a % b;
+    private static long getGCD(long a, long b){
+        long c = a % b;
         while(c != 0){
             a = b;
             b = c;
@@ -32,7 +35,7 @@ public class Rational extends Token {
     }
     // use this method to do reduction of this rational object
     private void doReduction(){
-        int gcd = getGCD();
+        long gcd = getGCD(num, den);
         num = num / gcd;
         den = den / gcd;
     }
@@ -43,7 +46,7 @@ public class Rational extends Token {
     }
 
     /**
-     * Create a arithmetic.Rational object, whose value will equal to
+     * Create a org.easycalculator.arithmetic.Rational object, whose value will equal to
      * {@code num / den}.
      * <br />The rational will be automatically converted into a standard form.
      * <br />Equal rationals have the same standard form,
@@ -52,7 +55,7 @@ public class Rational extends Token {
      * @param den the denominator
      * @throws IllegalArgumentException if {@code den == 0}
      */
-    public Rational(int num, int den) throws IllegalArgumentException {
+    public Rational(long num, long den) throws IllegalArgumentException {
         if(den == 0){
             throw new IllegalArgumentException("the denominator should not be zero");
         }
@@ -62,11 +65,11 @@ public class Rational extends Token {
     }
 
     /**
-     * Create a arithmetic.Rational object, whose value will equal to an integer
+     * Create a org.easycalculator.arithmetic.Rational object, whose value will equal to an integer
      * {@code num}.
      * @param num the integer
      */
-    public Rational(int num) {
+    public Rational(long num) {
         this.num = num;
         this.den = 1;
         processSign();
@@ -79,7 +82,8 @@ public class Rational extends Token {
     }
 
     public Rational(String str) throws ParseException {
-        int dot = -1, num = 0, den = 1;
+        int dot = -1;
+        long num = 0, den = 1;
         for(int i = 0; i < str.length(); i++){
             char c = str.charAt(i);
             if(c == '.'){
@@ -111,8 +115,8 @@ public class Rational extends Token {
     public Rational add(Rational r) {
         Rational result = null;
         if(r != null){
-            int num = this.sign * this.num * r.den + r.sign * r.num * this.den;
-            int den = this.den * r.den;
+            long num = this.sign * this.num * r.den + r.sign * r.num * this.den;
+            long den = this.den * r.den;
             result = new Rational(num, den);
         }
         return result;
@@ -127,8 +131,8 @@ public class Rational extends Token {
     public Rational subtract(Rational r) {
         Rational result = null;
         if(r != null){
-            int num = this.sign * this.num * r.den - r.sign * r.num * this.den;
-            int den = this.den * r.den;
+            long num = this.sign * this.num * r.den - r.sign * r.num * this.den;
+            long den = this.den * r.den;
             result = new Rational(num, den);
         }
         return result;
@@ -143,8 +147,8 @@ public class Rational extends Token {
     public Rational multiply(Rational r) {
         Rational result = null;
         if(r != null){
-            int num = this.sign * this.num * r.sign * r.num;
-            int den = this.den * r.den;
+            long num = this.sign * this.num * r.sign * r.num;
+            long den = this.den * r.den;
             result = new Rational(num, den);
         }
         return result;
@@ -163,8 +167,8 @@ public class Rational extends Token {
             if(r.isZero()){
                 throw new ArithmeticException("divided by zero");
             }
-            int num = this.sign * this.num * r.sign * r.den;
-            int den = this.den * r.num;
+            long num = this.sign * this.num * r.sign * r.den;
+            long den = this.den * r.num;
             result = new Rational(num, den);
         }
         return result;
@@ -188,8 +192,8 @@ public class Rational extends Token {
         if(!isInteger() || isNegative()){
             throw new ArithmeticException("only non-negative integers can do factorials");
         }
-        int n = 1;
-        for(int i = 2; i <= num; i++){
+        long n = 1;
+        for(long i = 2; i <= num; i++){
             n = n * i;
         }
         Rational r = new Rational(n);

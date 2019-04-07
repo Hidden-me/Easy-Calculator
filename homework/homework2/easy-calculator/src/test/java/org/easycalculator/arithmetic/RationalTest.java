@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 import java.text.ParseException;
 
 /** 
-* Rational Tester. 
+* Rational Test.
 * 
 * @author <Authors name> 
 * @since <pre>ËÄÔÂ 6, 2019</pre> 

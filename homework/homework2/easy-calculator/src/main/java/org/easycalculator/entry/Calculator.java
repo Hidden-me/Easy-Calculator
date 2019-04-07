@@ -1,13 +1,17 @@
-package entry;
+package org.easycalculator.entry;
 
-import arithmetic.*;
-import input.TokenStream;
+import org.easycalculator.arithmetic.*;
+import org.easycalculator.io.TokenStream;
 
-import java.io.InputStream;
-import java.io.OutputStream;
 import java.util.*;
 
 public class Calculator {
+    private Rational ans = null;
+    private void updateAnswer(Rational r){
+        if(r != null){
+            ans = new Rational(r);
+        }
+    }
     private static String preProcess(String exp){
         exp = exp.trim();
         char[] s = exp.toCharArray();
@@ -31,7 +35,7 @@ public class Calculator {
         }
         return result;
     }
-    private static ArrayList<Token> createAntiPolish(TokenStream ts){
+    private ArrayList<Token> createAntiPolish(TokenStream ts){
         ArrayList<Token> tokens = new ArrayList<Token>();
         Stack<Token> stack = new Stack<Token>();
         boolean lastIsNumber = false;
@@ -39,7 +43,7 @@ public class Calculator {
             Token t = ts.getNextToken();
             // convert "ANS" to numbers
             if(t instanceof LatestAnswer){
-                t = ((LatestAnswer)t).getLatestAnswer();
+                t = getLatestAnswer();
             }
             if(t instanceof Rational){
                 // a number
@@ -158,7 +162,7 @@ public class Calculator {
             TokenStream ts = new TokenStream(str);
             ArrayList<Token> tokens = createAntiPolish(ts);
             result = evaluateTokens(tokens);
-            LatestAnswer.updateAnswer(result);
+            updateAnswer(result);
             return String.valueOf(result.value());
         }catch(Exception e){
             return "error";
@@ -176,5 +180,8 @@ public class Calculator {
             exp = sc.next();
             exp = preProcess(exp);
         }
+    }
+    public Rational getLatestAnswer(){
+        return new Rational(ans);
     }
 }

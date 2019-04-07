@@ -1,4 +1,4 @@
-package org.easycalculator.input;
+package org.easycalculator.io;
 
 import org.easycalculator.arithmetic.*;
 
