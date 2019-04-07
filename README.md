@@ -4,6 +4,7 @@
 Course SE418 since March, 2019.
 
 All tasks, homework and projects will be integrated into this repository.
+<<<<<<< HEAD
 
 # Homework 2: Use the calculator with Postman
 First, start the Spring Application with an IDE (Intellij IDEA is recommended).
@@ -23,3 +24,5 @@ As a result of the example request, "0.5" will be returned in response.
 Of course, the content of expression can be any expression you want to calculate.
 
 Enjoy :)
+=======
+>>>>>>> 5f263b89ec94ded73f5ea9e5f434660c276fbdaf
