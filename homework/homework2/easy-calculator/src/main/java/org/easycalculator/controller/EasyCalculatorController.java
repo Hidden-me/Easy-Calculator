@@ -10,14 +10,16 @@ import java.util.Map;
 @RequestMapping("/calculator")
 public class EasyCalculatorController {
     private static Calculator cal = new Calculator();
-    @GetMapping("/")
-    public ModelAndView getCalculatorPage(){
-        System.out.println("GET /calculator/");
-        return new ModelAndView("index");
+    @GetMapping
+    public ModelAndView getCalculatorView(){
+        System.out.println("GET /calculator");
+        ModelAndView mav = new ModelAndView();
+        mav.setViewName("index");
+        return mav;
     }
     @PostMapping
     public String getResult(@RequestBody Map<String,Object> reqMap){
-        System.out.println("POST /calculator/");
+        System.out.println("POST /calculator");
         String exp = (String) reqMap.get("expression");
         String result = cal.evaluate(exp);
         System.out.println(result);
