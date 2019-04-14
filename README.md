@@ -6,6 +6,8 @@ Course SE418 since March, 2019.
 All tasks, homework and projects will be integrated into this repository.
 
 # Homework 2: Use the calculator with Postman
+(The AJAX POST method will be turned to GET method automatically and I don't know why, probably due to misuse of Spring Security)
+
 First, start the Spring Application with an IDE (Intellij IDEA is recommended).
 
 Then, create a POST request with the URL:
