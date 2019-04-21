@@ -7,7 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/calculator")
+@RequestMapping("/")
 public class EasyCalculatorController {
     private static Calculator cal = new Calculator();
     @GetMapping
@@ -17,9 +17,9 @@ public class EasyCalculatorController {
         mav.setViewName("index");
         return mav;
     }
-    @PostMapping
+    @PostMapping("calculate")
     public String getResult(@RequestBody Map<String,Object> reqMap){
-        System.out.println("POST /calculator");
+        System.out.println("POST /calculator/calculate");
         String exp = (String) reqMap.get("expression");
         String result = cal.evaluate(exp);
         System.out.println(result);
