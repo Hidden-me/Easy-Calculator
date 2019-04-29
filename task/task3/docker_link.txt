@@ -1,1 +1,1 @@
-https://cloud.docker.com/repository/registry-1.docker.io/hiddenme/easy-calculator
+https://hub.docker.com/r/hiddenme/easy-calculator

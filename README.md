@@ -1,4 +1,4 @@
-<a href="https://cloud.docker.com/repository/registry-1.docker.io/hiddenme/easy-calculator">*** Click me: Dockerhub link ***</a>
+<a href="https://hub.docker.com/r/hiddenme/easy-calculator">*** Click me: Dockerhub link ***</a>
 ===
 
 # Easy-Calculator
