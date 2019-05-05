@@ -1,4 +1,8 @@
-<a href="https://hub.docker.com/r/hiddenme/easy-calculator">*** Click me: Dockerhub link ***</a>
+<a href="https://hub.docker.com/r/hiddenme/eureka">*** Click me: Dockerhub link: Eureka***</a>
+===
+<a href="https://hub.docker.com/r/hiddenme/easy-calculator">*** Click me: Dockerhub link: Calculator***</a>
+===
+<a href="https://hub.docker.com/r/hiddenme/loginservice">*** Click me: Dockerhub link: Login***</a>
 ===
 
 # Easy-Calculator
