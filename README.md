@@ -1,8 +1,4 @@
-<a href="https://hub.docker.com/r/hiddenme/eureka">*** Click me: Dockerhub link: Eureka***</a>
-===
-<a href="https://hub.docker.com/r/hiddenme/easy-calculator">*** Click me: Dockerhub link: Calculator***</a>
-===
-<a href="https://hub.docker.com/r/hiddenme/loginservice">*** Click me: Dockerhub link: Login***</a>
+<a href="https://github.com/sjtu-rr-homework/Cloud_native_first_attempt">PROJECT LINK</a>
 ===
 
 # Easy-Calculator
