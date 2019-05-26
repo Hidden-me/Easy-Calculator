@@ -1,3 +1,6 @@
+Task 4 has been updated: /task/task4
+===
+
 <a href="https://github.com/sjtu-rr-homework/Cloud_native_first_attempt">PROJECT LINK</a>
 ===
 
