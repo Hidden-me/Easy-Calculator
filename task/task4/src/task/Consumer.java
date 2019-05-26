@@ -16,7 +16,11 @@ public class Consumer implements Runnable {
             }catch(Exception e){
                 e.printStackTrace();
             }
-            System.out.println("pop: " + container.pop());
+            Integer item = (Integer) container.pop();
+            if(item != null){
+                System.out.println("pop: " + item);
+            }
         }
+        Main.consumerFinish();
     }
 }

@@ -11,13 +11,14 @@ public class Producer implements Runnable {
     }
     public void run(){
         for(int i = 0; i < threshold * 4; i++){
-            System.out.println("push: " + i);
             container.push(i);
+            System.out.println("push: " + i);
             try{
                 Thread.sleep(100);
             }catch(Exception e){
                 e.printStackTrace();
             }
         }
+        Main.producerFinish();
     }
 }
